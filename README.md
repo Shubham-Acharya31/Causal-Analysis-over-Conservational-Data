@@ -1,4 +1,4 @@
-# Casual-Analysis-over-Conservational-Data
+# Causal-Analysis-over-Conservational-Data
 
 📌 Problem Overview
 
